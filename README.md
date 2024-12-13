@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexandru1801&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alexandru1801&theme=material-palenight&hide_border=false)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexandru1801&icon=10&color=8)](https://visitcount.itsvg.in)
