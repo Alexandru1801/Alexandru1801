@@ -1,7 +1,7 @@
 <h1>Hello! I'm Alexandru</h1>
 
 <h2>About me</h2>
-- 🙍🏼‍♂️I'am a 18 year old and i am form Granada, Spain<br>
+- 🙍🏼‍♂️I'am a 20 year old and i am form Granada, Spain<br>
 - 📚I’m currently studing Computer Science and Web Development<br>
 - 👁I’m looking to learn more about the world of programming and make huge proyects<br>
 - 📫 How to reach me: <a href="alexandrumg2006gmail.com">alexandrumg2006gmail.com</a><br>
