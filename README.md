@@ -11,6 +11,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexandru1801&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
